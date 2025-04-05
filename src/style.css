@@ -15,6 +15,7 @@ body{
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 30px;
     width: 350px;
+    margin: 20px;
 }
 
 .container h1 {
@@ -72,10 +73,8 @@ body{
 
 .container #imc-valor {
     font-weight: bold;
-    color: #007bff;
 }
 
 .container #imc-classificacao {
     font-weight: bold;
-    color: #28a745;
 }
