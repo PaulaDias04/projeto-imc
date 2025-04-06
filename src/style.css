@@ -25,7 +25,7 @@ body{
 }
 
 .container .input-group{
-    margin-bottom: 15px;
+    margin: 10px;
 }
 
 .container .input-group label {
@@ -60,6 +60,12 @@ body{
     background-color: #0056b3;
 }
 
+.container .result {
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
 .container .result h2 {
     margin-top: 0;
     color: #333;
@@ -69,12 +75,4 @@ body{
 .container .result p {
     margin-bottom: 5px;
     color: #555;
-}
-
-.container #imc-valor {
-    font-weight: bold;
-}
-
-.container #imc-classificacao {
-    font-weight: bold;
 }
